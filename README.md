@@ -1,4 +1,4 @@
-# dom-to-img
+# dom-to-png
 
 Simple app to take a screenshot of a dom element using [Puppeter](https://pptr.dev).
 
