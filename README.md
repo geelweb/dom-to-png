@@ -10,3 +10,5 @@ Example usage:
 npm start
 curl -XGET -G "http://localhost:3600" --data-urlencode "url=https://leafletjs.com/" --data-urlencode "id=map" --output "map.png"
 ```
+
+Docker image: https://hub.docker.com/r/geelweb/dom-to-png
